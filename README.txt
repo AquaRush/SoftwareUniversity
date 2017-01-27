@@ -1,0 +1,1 @@
+This file will make a new conflict.

@@ -1,1 +1,1 @@
-This file will make a new conflict.
+Edited README for the main branch.

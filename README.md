@@ -1,3 +1,3 @@
 # exercise-repository
 Exercise repository for university.
-New line for conflict preparation.
+New line for conflict preparation....
